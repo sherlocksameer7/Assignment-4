@@ -4,7 +4,7 @@ def name_adder(l1, l2):
             l2.append(i)
         return l2
 
-    l1 = ["Sherlock", "Sameer"]
-    l2 = ["Arijit", "Sameer"]
+l1 = ["Sherlock", "Sameer"]
+l2 = ["Arijit", "Sameer"]
 
-    print(name_adder(l1, l2))
+print(name_adder(l1, l2))
